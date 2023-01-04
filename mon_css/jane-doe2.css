@@ -1,0 +1,9 @@
+img {
+	border-radius: 12px;
+	box-shadow: 5px 5px 0 black;
+}
+
+p {
+	font-size: 1.5em;
+	font-family: fantasy;
+}

@@ -1,0 +1,9 @@
+h1, h2 {
+	border: 7px solid goldenrod;
+	border-radius: 10px;
+}
+
+
+img:hover + p {
+	color: red;
+}

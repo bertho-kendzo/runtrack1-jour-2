@@ -1,0 +1,17 @@
+a{
+	color: green;
+}
+
+em {
+	color: blue; font-size: !important;
+}
+
+a:hover {
+	color: blueviolet;
+}
+
+a:focus {
+	background-color: deeppink;
+	color: white;
+	outline-color: blueviolet;
+}

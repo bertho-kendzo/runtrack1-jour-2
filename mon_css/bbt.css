@@ -1,0 +1,60 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+a{
+	height: 200px;
+	width: 300px;
+	position: relative;
+	left: 90px;
+
+}
+
+h1, h2 {
+	color: white;
+	font-size: 2em;
+	background-color: blueviolet;
+	text-align: center;
+}
+
+body{
+	font-family: sans-serif;
+
+}
+
+p {
+	margin: 15px;
+}
+
+td{
+	border: solid 3px blueviolet;
+	text-align: left;
+	padding: 20px;
+}
+
+th{
+	border: solid 3px black;
+	text-align: center;
+	padding: 20px;
+}
+
+table{
+	font-family: fantasy;
+	font-size: 1.3em;
+	border-collapse: collapse;
+	margin: auto;
+}
+
+caption {
+	border-top: 2px solid rgba(0, 0, 0, 0.3);
+	caption-side: bottom;
+	margin: 15px;
+}
+
+textarea {
+	width: 300px;
+	height: 400px;
+}

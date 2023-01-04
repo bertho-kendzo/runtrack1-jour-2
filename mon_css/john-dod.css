@@ -1,0 +1,13 @@
+p {
+	text-align: justify;
+	font-size: 1.9em;
+	font-family: initial;
+	font-style: italic;
+}
+
+h1, h2 {
+	background: url("/Users/lebantou/Desktop/projet_bbt/images/backgroud2.jpeg") fixed;
+	text-align: center;
+	font-family: cursive;
+	color: white;
+}

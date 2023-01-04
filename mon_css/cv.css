@@ -1,0 +1,36 @@
+.container1 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows:0.5fr;
+	gap: 20px;
+	padding: 25px;
+	justify-content: space-around;
+	background: linear-gradient(#0575E6, #B06AB3);
+	margin: 15px;
+
+	
+
+}
+
+.first{
+	border-top: solid 4px black;
+	
+}
+
+.second{
+
+
+}
+
+p{
+	font-family: cursive;
+	font-size: 1.3em;
+
+}
+
+h1,h2,h3 {
+	font-size: 1.5em;
+	font-family: fantasy;
+	
+}
+

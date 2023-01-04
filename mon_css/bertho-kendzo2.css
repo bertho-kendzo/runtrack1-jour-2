@@ -1,0 +1,20 @@
+h1, h2, h3 {
+	background: linear-gradient(#1c92d2, #f2fcfe);
+	box-shadow: 5px 5px 12px rgb(0, 0, 0, 0.5);
+}
+
+p{
+	border: 3px #1c92d2 solid;
+	border-radius: 10px 0 10px 0;
+	font-family: sans-serif;
+	font-size: 2em;
+	text-align: justify;
+}
+
+img:hover {
+	opacity: 0.8;
+}
+
+img:hover + p {
+	color: darkred;
+}
